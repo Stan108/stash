@@ -8,22 +8,5 @@ public class Main {
         
         System.out.println("Hel");
         System.out.println("He");
-        System.out.println("He");
-        System.out.println("Hello git!!!");
-        System.out.println("Hello git!!!");
-        System.out.println("Hello git!!!");
-        System.out.println("Hello git!!!");
-        System.out.println("Hello git!!!");
-        System.out.println("Hello git!!!");
-        IntStream.range(0, 10).mapToObj(i -> "Om!!!").forEach(System.out::println);
-        IntStream.range(0, 10).mapToObj(i -> "Om!!!").forEach(System.out::println);
-            IntStream.range(0, 10).mapToObj(i -> "Om!!!").forEach(System.out::println);
-            IntStream.range(0, 10).mapToObj(i -> "Om!!!").forEach(System.out::println);
-            IntStream.range(0, 10).mapToObj(i -> "Om!!!").forEach(System.out::println);
-            IntStream.range(0, 10).mapToObj(i -> "Om!!!").forEach(System.out::println);
-            System.out.println("Hello git!!!");
-            System.out.println("Hello git!!!");
-            System.out.println("Hello git!!!");
-            System.out.println("Hello git!!!");
     }
 }
