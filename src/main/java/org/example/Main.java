@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Om Shri Sai Ram!");
         System.out.println("Om Shri Sai Ram!");
         System.out.println("Om Shri Sai Ram!");
+        System.out.println("Om Shri Sai Ram!");
     }
 }
